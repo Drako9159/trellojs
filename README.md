@@ -1,6 +1,6 @@
-#Test API Trello
+## Test API Trello
 
-Se agrega un método que genera una tarjeta en la lista de tareas.
+### Se agrega un método que genera una tarjeta en la lista de tareas.
 
 ## Inicializar
 ````shell
